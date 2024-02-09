@@ -21,12 +21,12 @@ git clone https://github.com/saksh-sys/Anime-Recommendation-System-using-ML.git
 
 Navigate to the project directory:
 ```bash
-cd anime-recommendation-system
+cd Anime-Recommendation-System-using-ML
 ```
 Open the anime_recommendation_system.ipynb file in Jupyter Notebook:
 ```bash
 
-jupyter notebook anime_recommendation_system.ipynb
+jupyter notebook Anime_list.ipynb
 ```
 
 Run the cells in the notebook to generate the recommendations.
